@@ -1,0 +1,1 @@
+The degree of a node is the number of edges that are adjacent to the node.
